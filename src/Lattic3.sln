@@ -1,0 +1,18 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4e8b8bae-c8af-42f2-8db7-7fe733dc795d}") = "Lattic3.Components", "Lattic3.Components\Lattic3.Components.csproj", "{5cdaac35-36b4-438a-a811-c66c191cf54a}"
+EndProject
+
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5cdaac35-36b4-438a-a811-c66c191cf54a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5cdaac35-36b4-438a-a811-c66c191cf54a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5cdaac35-36b4-438a-a811-c66c191cf54a}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5cdaac35-36b4-438a-a811-c66c191cf54a}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

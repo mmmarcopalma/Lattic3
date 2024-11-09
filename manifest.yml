@@ -1,0 +1,10 @@
+---
+name: Lattic3
+version: 0.1.1.9058
+authors:
+- Marco Palma
+description: 'Lattic3 is a plugin for the parametric modelling of diagrid-based lattice steel elements. Their design relies on the performance of circular hollow steel sections, providing equivalent structural inertia, but reducing material usage. '
+license: MIT
+url: ''
+keywords:
+- guid:4e8b8bae-c8af-42f2-8db7-7fe733dc795d
